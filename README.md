@@ -1,1 +1,1 @@
-# focus-rl
+# Decentralized Autofocusing System with Hierarchical Agents
