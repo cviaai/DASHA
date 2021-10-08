@@ -22,15 +22,6 @@ To train the models used in the paper, run this command:
 basler_camera/RL/RL_corning_basler_ver5.ipynb
 ```
 
-## Evaluation
-
-To evaluate models, run:
-
-```eval
-python eval.py --config <path_to_config_file>
-```
-
-
 ## Citing
 If you use this package in your publications or in other work, please cite it as follows:
 ```
